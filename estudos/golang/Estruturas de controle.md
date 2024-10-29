@@ -48,3 +48,5 @@ for index, value := range nums {
 	fmt.Println(index, value)
 }
 ```
+
+#go #laços_de_repetição #estruturas_de_controle
