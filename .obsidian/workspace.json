@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e5fff9211b0cea70",
+        "id": "763951fc24b8666a",
         "type": "tabs",
         "children": [
           {
-            "id": "117673bd25cfb26f",
+            "id": "cfbf829ed0fc14b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "estudos/golang/Concorrência.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Concorrência"
+              "title": "Nova aba"
             }
           }
         ]
@@ -173,15 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86979276e807a233",
+  "active": "cfbf829ed0fc14b9",
   "lastOpenFiles": [
     "estudos/golang/Concorrência.md",
+    "Sem título",
+    "Sem título.canvas",
     "estudos/golang/Estruturas de dados.md",
     "estudos/golang/Estruturas de controle.md",
     "estudos/golang/Funções.md",
     "estudos/golang/Variáveis.md",
     "2024-10-29.md",
-    "Sem título",
     "estudos/golang",
     "estudos",
     "Welcome.md"
