@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "789655eb912747b9",
+        "id": "e5fff9211b0cea70",
         "type": "tabs",
         "children": [
           {
-            "id": "e7edd7927b770cdf",
+            "id": "117673bd25cfb26f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "estudos/golang/Concorrência.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Concorrência"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "estudos/golang/Concorrência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Concorrência"
             }
           },
           {
@@ -133,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "estudos/golang/Concorrência.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Concorrência"
             }
           },
           {
@@ -166,10 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "038b20041d7e2ea8",
+  "active": "86979276e807a233",
   "lastOpenFiles": [
-    "estudos/golang/Funções.md",
+    "estudos/golang/Concorrência.md",
+    "estudos/golang/Estruturas de dados.md",
     "estudos/golang/Estruturas de controle.md",
+    "estudos/golang/Funções.md",
     "estudos/golang/Variáveis.md",
     "2024-10-29.md",
     "Sem título",

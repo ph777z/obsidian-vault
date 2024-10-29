@@ -14,12 +14,12 @@ Switch:
 ```go
 dia := "sexta"
 switch dia {
-	case "sexta":
-		fmt.Println("Sextou!")
-	case "segunda":
-		fmt.Println("tristou!")
-	default:
-		fmt.Println("só vai")
+case "sexta":
+	fmt.Println("Sextou!")
+case "segunda":
+	fmt.Println("tristou!")
+default:
+	fmt.Println("só vai")
 }
 ```
 
@@ -41,7 +41,7 @@ for i < 10 {
 }
 ```
 
-iteração sobre slices ou arrays:
+iteração sobre slices, arrays ou maps:
 ```go
 nums := []int{2,3,4,5}
 for index, value := range nums {
