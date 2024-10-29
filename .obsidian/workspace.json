@@ -11,10 +11,14 @@
             "id": "cfbf829ed0fc14b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "estudos/golang/Concorrência.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Concorrência"
             }
           }
         ]
@@ -169,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfbf829ed0fc14b9",
+  "active": "038b20041d7e2ea8",
   "lastOpenFiles": [
     "estudos/golang/Concorrência.md",
     "Sem título",
