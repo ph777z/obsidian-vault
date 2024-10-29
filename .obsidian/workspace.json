@@ -108,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "estudos/golang/Funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Funções"
+              "title": "Links de saída"
             }
           },
           {
@@ -134,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "estudos/golang/Funções.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de Funções"
+              "title": "Sumário"
             }
           },
           {
@@ -169,10 +166,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86979276e807a233",
+  "active": "038b20041d7e2ea8",
   "lastOpenFiles": [
-    "estudos/golang/Estruturas de controle.md",
     "estudos/golang/Funções.md",
+    "estudos/golang/Estruturas de controle.md",
     "estudos/golang/Variáveis.md",
     "2024-10-29.md",
     "Sem título",
